@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Definizione di Usabilit\IeC {\`a}}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Scopo del Documento}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Presentazione del Sito}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Contesto}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Nome del Sito}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Struttura}{3}{subsection.2.3}
+\contentsline {section}{\numberline {3}Analisi Pagine}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Home Page}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}I Sei Assi Informativi}{7}{subsubsection.3.1.1}
+\contentsline {paragraph}{Where - In che sito sono arrivato?}{7}{section*.2}
+\contentsline {paragraph}{Who - Chi rappresenta il sito?}{8}{section*.3}
+\contentsline {paragraph}{Why - Perch\IeC {\`e} dovrei fermarmi in questo sito?}{8}{section*.4}
+\contentsline {paragraph}{What - Cosa offre il sito?}{9}{section*.5}
+\contentsline {paragraph}{When - Quali sono le ultime novit\IeC {\`a}?}{9}{section*.6}
+\contentsline {paragraph}{How - Come faccio ad ottenere ci\IeC {\`o} che voglio?}{9}{section*.7}
+\contentsline {subsubsection}{\numberline {3.1.2}Altre Considerazioni}{10}{subsubsection.3.1.2}
+\contentsline {section}{\numberline {4}Pagine Interne}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Considerazioni Generali}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}I Sei Assi Informativi}{11}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Assi Informativi Obbligatori}{11}{subsubsection.4.2.1}
+\contentsline {paragraph}{Where}{11}{section*.8}
+\contentsline {paragraph}{When}{11}{section*.9}
+\contentsline {paragraph}{Why}{11}{section*.10}
+\contentsline {paragraph}{How}{11}{section*.11}
+\contentsline {subsubsection}{\numberline {4.2.2}Assi Informativi Consigliati}{11}{subsubsection.4.2.2}
+\contentsline {paragraph}{What}{11}{section*.12}
+\contentsline {paragraph}{Who}{11}{section*.13}
