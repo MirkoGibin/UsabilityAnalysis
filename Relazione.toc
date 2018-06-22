@@ -14,15 +14,23 @@
 \contentsline {paragraph}{What - Cosa offre il sito?}{9}{section*.5}
 \contentsline {paragraph}{When - Quali sono le ultime novit\IeC {\`a}?}{9}{section*.6}
 \contentsline {paragraph}{How - Come faccio ad ottenere ci\IeC {\`o} che voglio?}{9}{section*.7}
-\contentsline {subsubsection}{\numberline {3.1.2}Altre Considerazioni}{10}{subsubsection.3.1.2}
-\contentsline {section}{\numberline {4}Pagine Interne}{11}{section.4}
-\contentsline {subsection}{\numberline {4.1}Considerazioni Generali}{11}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}I Sei Assi Informativi}{11}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Assi Informativi Obbligatori}{11}{subsubsection.4.2.1}
-\contentsline {paragraph}{Where}{11}{section*.8}
-\contentsline {paragraph}{When}{11}{section*.9}
-\contentsline {paragraph}{Why}{11}{section*.10}
-\contentsline {paragraph}{How}{11}{section*.11}
-\contentsline {subsubsection}{\numberline {4.2.2}Assi Informativi Consigliati}{11}{subsubsection.4.2.2}
-\contentsline {paragraph}{What}{11}{section*.12}
-\contentsline {paragraph}{Who}{11}{section*.13}
+\contentsline {subsubsection}{\numberline {3.1.2}Altre Considerazioni}{9}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Il Palladio}{10}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Assi Informativi Obbligatori}{12}{subsubsection.3.2.1}
+\contentsline {paragraph}{What}{12}{section*.8}
+\contentsline {paragraph}{Who}{12}{section*.9}
+\contentsline {paragraph}{Where}{12}{section*.10}
+\contentsline {subsubsection}{\numberline {3.2.2}Assi Informativi Opzionali}{13}{subsubsection.3.2.2}
+\contentsline {paragraph}{When}{13}{section*.11}
+\contentsline {paragraph}{Why}{13}{section*.12}
+\contentsline {paragraph}{How}{13}{section*.13}
+\contentsline {subsection}{\numberline {3.3}Pavimenti e rivestimenti}{15}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Breadcrumb}{15}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Immagini}{15}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Conenuto}{18}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {4}Altre Considerazioni}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Testo}{19}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Design}{19}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Link}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Ricerche e Pagina 404}{20}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusione}{22}{section.5}
